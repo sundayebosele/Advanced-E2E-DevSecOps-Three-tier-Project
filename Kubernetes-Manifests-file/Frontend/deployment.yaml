@@ -32,3 +32,4 @@ spec:
             value: "http://api:3500/api/tasks"
         ports:
         - containerPort: 3000
+         #       - containerPort: 3000
